@@ -1,0 +1,16 @@
+C:\Users\ilink\source\repos\GamerWare\GamerWare\bin\Debug\GamerWare.exe.config
+C:\Users\ilink\source\repos\GamerWare\GamerWare\bin\Debug\GamerWare.exe
+C:\Users\ilink\source\repos\GamerWare\GamerWare\bin\Debug\GamerWare.pdb
+C:\Users\ilink\source\repos\GamerWare\GamerWare\obj\Debug\GamerWare.Resources.resources
+C:\Users\ilink\source\repos\GamerWare\GamerWare\obj\Debug\GamerWare.csproj.GenerateResource.cache
+C:\Users\ilink\source\repos\GamerWare\GamerWare\obj\Debug\GamerWare.exe
+C:\Users\ilink\source\repos\GamerWare\GamerWare\obj\Debug\GamerWare.pdb
+C:\Users\ilink\source\repos\GamerWare\GamerWare\obj\Debug\GamerWare.csprojAssemblyReference.cache
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\obj\Debug\GamerWare.csprojAssemblyReference.cache
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\obj\Debug\GamerWare.csproj.GenerateResource.cache
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\bin\Debug\AnarchyGrabber.exe.config
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\bin\Debug\AnarchyGrabber.exe
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\bin\Debug\AnarchyGrabber.pdb
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\obj\Debug\AnarchyGrabber.Resources.resources
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\obj\Debug\AnarchyGrabber.exe
+C:\Users\edhbu\source\repos\GamerWare-master\GamerWare\obj\Debug\AnarchyGrabber.pdb

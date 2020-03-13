@@ -1,0 +1,8 @@
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\bin\Debug\AnarchyGrabber.exe.config
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\bin\Debug\AnarchyGrabber.exe
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\bin\Debug\AnarchyGrabber.pdb
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\obj\Debug\AnarchyGrabber.csprojAssemblyReference.cache
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\obj\Debug\AnarchyGrabber.Resources.resources
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\obj\Debug\AnarchyGrabber.csproj.GenerateResource.cache
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\obj\Debug\AnarchyGrabber.exe
+C:\Users\edhbu\source\repos\AnarchyGrabber2\AnarchyGrabber\obj\Debug\AnarchyGrabber.pdb
